@@ -1,4 +1,4 @@
-#!~/bin/bash
+#!usr/bin/bash
 echo "Hello miner"
 sudo apt update
 sudo apt upgrade -y
